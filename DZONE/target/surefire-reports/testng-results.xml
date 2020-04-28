@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="57686" started-at="2019-05-02T07:54:54Z" finished-at="2019-05-02T07:55:52Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="57686" started-at="2019-05-02T07:54:54Z" finished-at="2019-05-02T07:55:52Z">
+      <class name="d_Zone.ZoneTest">
+        <test-method status="PASS" signature="browser()[pri:0, instance:d_Zone.ZoneTest@616ca2]" name="browser" duration-ms="57684" started-at="2019-05-02T13:24:54Z" finished-at="2019-05-02T13:25:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+      </class> <!-- d_Zone.ZoneTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
